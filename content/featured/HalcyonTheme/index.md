@@ -2,6 +2,7 @@
 date: '1'
 title: 'Python Trading Bot'
 cover: './quantconnect.png'
+external: 'https://www.quantconnect.com/'
 tech:
   - Python
   - QuantConnect
