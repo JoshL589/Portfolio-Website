@@ -7,6 +7,7 @@ import { usePrefersReducedMotion } from '@hooks';
 const StyledContactSection = styled.section`
   max-width: 600px;
   margin: 0 auto 100px;
+  margin-top: 50px !important;
   text-align: center;
 
   @media (max-width: 768px) {
@@ -60,9 +61,9 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m currently open for any new opportunities! Whether it's tutoring, an internship or new
-        work opportunities, my inbox is always open. Feel free to contact me and, I’ll try my best
-        to get back to you!
+        I’m currently open for any new opportunities! Whether it's tutoring, new internships or new
+        work opportunities, my inbox is always open. Feel free to contact me and I’ll get back to
+        you as soon as possible!
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
