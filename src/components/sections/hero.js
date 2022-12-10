@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an software engineer, tutor CS student in Australia who loves to solve complex problems,
-        learn challenging concepts and explore new technologies.
+        I’m an software engineer, tutor and CS student in Australia who loves to solve complex
+        problems, learn challenging concepts and explore new technologies.
       </p>
     </>
   );
