@@ -1,11 +1,11 @@
 ---
-title: 'Employee'
-company: 'Vapiano'
+title: 'Virtual Intern'
+company: 'JPMorgan'
 location: 'Brisbane, AUS'
-range: 'Sept 2020 - May 2021'
-url: 'https://vapiano.com.au/'
+range: 'Oct 2022'
+url: 'https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_TuK8QgfshqStcp9ic_1665379642216_completion_certificate.pdf'
 ---
 
-- Learned valuable teamwork skills working with many different people in various areas of the company.
-- Developed more communication skills and social skills while talking and interacting with many customers on a daily basis.
-- Was able to learn and work flexibly in many different places and aspects of the company.
+- Experienced practical work experience learned how to apply my knowledge (Learnt Git, React and Data visualization).
+- Developed more problem solving skills and independence skills to be able to trouble shoot on my own.
+- Was able to learn and work flexibly in many different places and aspects of the company, utilizing the company tools.

@@ -1,11 +1,11 @@
 ---
-title: 'Participant'
-company: 'Winter Hackathon'
+title: 'Software Engineer'
+company: 'Hackathons'
 location: 'Brisbane, AUS'
 range: 'July 2022'
 url: 'https://www.facebook.com/events/river-city-labs/winter-hackathon-2022/446813453559541/'
 ---
 
-- Part of a team of 4 who built a new social media app for pets in 48 hours called ’Pets Care’ at Code Network.
-- Worked with a variety of different languages, platforms, frameworks, such as JavaScript, React, HTML/CSS and Firebase.
+- Collaborated with experienced developers to design and deploy a pet networking app, using firebase and react
+- Designed and deploy a game where there's a dynamic character levels up as you study more, using pygame.
 - Learned valuable teamwork and communication skills with multi-disciplinary experienced software engineers.
