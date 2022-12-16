@@ -1,13 +1,15 @@
 ---
 date: '3'
-title: 'Pig Game Clone'
-cover: './piggame.png'
-external: 'https://piggame589.netlify.app/'
+title: 'MERN stack note app'
+cover: './Captureee.JPG'
+external: 'https://learning-nodejs-production.up.railway.app/'
+github: 'https://github.com/JoshL589/Note-app-mern-full-stack'
 cta: ''
 tech:
-  - HTML
-  - CSS
-  - JavaScript
+  - React
+  - MongoDB
+  - Node.js
+  - Express.js
 ---
 
-Built a fully responsive website of a game called [Pig Game](<https://en.wikipedia.org/wiki/Pig_(dice_game)>), learning the fundamentals of using JavaScript in the web. Main techonolgies used were HTML, CSS and JavaScript.
+Built my first full stack application using the MERN stack, learning the fundamentals of full stack applications, building both the frontend and backend connected to mongoDB.
